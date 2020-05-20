@@ -1,6 +1,6 @@
 import re
 import string 
-#set working directory
+#set working directory!!
 import os
 import numpy as np
 path="/Users/isabel/Desktop/Python Spyder/Google_jobs"
